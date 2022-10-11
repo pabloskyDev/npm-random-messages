@@ -12,6 +12,8 @@ npm install -g random-msg
 
 ```bash
 random-msg
+or
+node bin/global.js
 ```
 
 # Contributing
